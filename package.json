@@ -11,7 +11,7 @@
     "vue-router-plugin"
   ],
   "author": "oxyzhg@163.com",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "single-spa": "^1.4.0"
   }
